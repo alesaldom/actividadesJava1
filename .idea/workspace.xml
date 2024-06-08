@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d65d383-32a7-4168-989b-0813fe829116" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actividades/Actividad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividades/Actividad3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actividades/Actividad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividades/Actividad1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actividades/Actividad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividades/Actividad2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actividades/Objeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividades/Objeto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +51,14 @@
   "keyToString": {
     "Application.Actividad1.executor": "Run",
     "Application.Actividad2.executor": "Run",
+    "Application.Actividad3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

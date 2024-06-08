@@ -12,16 +12,21 @@ public class Actividad1 {
         objeto.getIsACat();
 
         System.out.println(objeto.name + " es " + objeto.color + " tiene " + objeto.age + " años. Es un gato? " + objeto.isACat);
+        objeto.eat();
 
         // CREAR OTRAS INSTANCIAS DEL OBJETO CON SET
         objeto.setName("Dopamina");
         objeto.setColor("Naranja");
         objeto.setIsACat(true);
         System.out.println(objeto.name + " es " + objeto.color + " Es un gato? " + objeto.isACat);
+        objeto.sleep();
 
         objeto.setName("Nutella");
         objeto.setColor("café");
         objeto.setIsACat(false);
         System.out.println(objeto.name + " es " + objeto.color + " Es un gato? " + objeto.isACat);
+        objeto.givesLove();
+
+
     }
 }

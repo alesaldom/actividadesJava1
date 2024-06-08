@@ -8,15 +8,15 @@ public class Objeto {
     boolean isACat;
 
     // FUNCIONES
-    private void eat(){
-        System.out.println("Eats to much");
+    public void eat(){
+        System.out.println("She eats to much");
     }
 
-    private void sleep(){
+    public void sleep(){
         System.out.println("She loves to sleep");
     }
 
-    private void givesLove(){
+    public void givesLove(){
         System.out.println("Is the most loving being in world");
 }
 
